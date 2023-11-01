@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "HelloGoodbye",
+      "request": "launch",
+      "mainClass": "HelloGoodbye",
+      "args": ["Bia", "Fe"],
+      "projectName": "Algorithms-Princeton_d965bf97"
+    },
+    {
+      "type": "java",
+      "name": "RandomWord",
+      "request": "launch",
+      "mainClass": "RandomWord",
+      "projectName": "Algorithms-Princeton_d965bf97"
+    }
+  ]
+}
